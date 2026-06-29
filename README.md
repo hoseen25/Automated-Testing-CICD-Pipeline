@@ -1,6 +1,8 @@
 \# 🚀 Automated Testing \& CI/CD Pipeline
 
 
+![Pipeline Flow](pipeline-diagram.png)
+
 
 A production-ready Continuous Integration (CI) pipeline designed to automate environment setup, static code analysis (linting), and unit testing for a Python-based application. 
 
